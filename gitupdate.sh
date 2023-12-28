@@ -7,4 +7,5 @@ git status
 git add .
 git commit -m "Last update"
 
+echo "Everthing worked just fine"
 
