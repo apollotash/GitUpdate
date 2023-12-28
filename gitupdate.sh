@@ -7,5 +7,6 @@ git status
 git add .
 git commit -m "Last update"
 
-echo "Everthing worked just fine"
 
+git remote add origin git@github.com:apollotash/GitUpdate.git
+git push -u origin master
