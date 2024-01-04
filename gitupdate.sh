@@ -8,5 +8,5 @@ git add .
 git commit -m "Last update"
 
 
-git remote add origin git@github.com:apollotash/GitUpdate.git
+#git remote add origin git@github.com:apollotash/GitUpdate.git
 git push -u origin master
